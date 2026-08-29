@@ -22,6 +22,8 @@ Desenvolvedor focado na criação de soluções para sistemas web e mobile e sis
 ---
 
 ### 📊 Estatísticas no GitHub
+### 📊 Estatísticas no GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lxlLukazlxl&show_icons=true&theme=dark&hide_border=true" height="150" alt="Estatísticas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxlLukazlxl&layout=compact&theme=dark&hide_border=true" height="150" alt="Linguagens" />
