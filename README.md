@@ -23,6 +23,8 @@ Desenvolvedor focado na criação de soluções para sistemas web e mobile e sis
 
 ### 📊 Estatísticas e Atividade no GitHub
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/lxlLukazlxl?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" width="100%" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lxlLukazlxl&show_icons=true&theme=dark&hide_border=true&v=1)](https://github.com/lxlLukazlxl)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlLukazlxl&layout=compact&theme=dark&hide_border=true&v=1)](https://github.com/lxlLukazlxl)
+
+[![Streak Stats](https://streak-stats.demolab.com?user=lxlLukazlxl&theme=dark&hide_border=true&v=1)](https://github.com/lxlLukazlxl)
