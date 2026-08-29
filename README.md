@@ -24,5 +24,5 @@ Desenvolvedor focado na criação de soluções para sistemas web e mobile e sis
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/lxlLukazlxl?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FSao_Paulo" alt="Metrics" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxlLukazlxl&theme=dark&hide_border=true" height="160" alt="Streak Stats" />
 </p>
