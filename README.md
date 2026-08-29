@@ -1,42 +1,45 @@
-# Olá, eu sou o Lucas Andena! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Olá,%20eu%20sou%20o%20Lucas%20Andena!&fontSize=38&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor focado na criação de soluções para sistemas web e mobile e sistemas de gestão.
 
-- 🛠️ **Minha Stack Principal:** Flutter, React, Node.js, Python, JavaScript, HTML/CSS e MySQL.
-- 🎯 **Foco atual:** Arquitetura de aplicações multi-tenant e integração com serviços Cloud (Firebase/Supabase).
-- 📍 **Localização:** Tremembé, SP - Brasil
+Desenvolvedor focado na criação de soluções para sistemas web, mobile e de gestão.
 
----
-
-### 💻 Minhas Tecnologias & Ferramentas
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+* 🚀 **Minha Stack Principal:** Flutter, React, Node.js, Python, JavaScript, HTML/CSS e MySQL.
+* 🎯 **Foco Atual:** Arquitetura de aplicações multi-tenant e integração com serviços Cloud (Firebase/Supabase).
+* 📍 **Localização:** Tremembé, SP - Brasil
 
 ---
 
-### 📊 Estatísticas e Atividade no GitHub
+### 🛠️ Minhas Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Desenvolvendo%20Projetos-success?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack%20%26%20Mobile-blue?style=for-the-badge&logo=flutter" alt="Foco" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 📊 Repositórios e Domínios
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <b>💻 Repositórios no GitHub</b><br/><br/>
-      🏢 <b>gestao_condominio</b> (Flutter / Firebase)<br/>
-      📱 <b>app-entregas</b> (Flutter / Dart)<br/>
-      💼 <b>ERP-Comercial-Pro-V4</b> (Python)<br/>
-      💈 <b>agendamento-barbearia</b> (HTML / CSS / JS)<br/>
-      🔍 <b>github-finder-react</b> (React / JavaScript)
+      <b>💻 Repositórios em Destaque</b><br/><br/>
+      🏢 <a href="https://github.com/lxlLukazlxl/gestao_condominio"><b>gestao_condominio</b></a> (Flutter / Firebase)<br/>
+      📱 <a href="https://github.com/lxlLukazlxl/app-entregas"><b>app-entregas</b></a> (Flutter / Dart)<br/>
+      💼 <a href="https://github.com/lxlLukazlxl/ERP-Comercial-Pro-V4"><b>ERP-Comercial-Pro-V4</b></a> (Python)<br/>
+      💈 <a href="https://github.com/lxlLukazlxl/agendamento-barbearia"><b>agendamento-barbearia</b></a> (HTML / CSS / JS)<br/>
+      🔍 <a href="https://github.com/lxlLukazlxl/github-finder-react"><b>github-finder-react</b></a> (React / JavaScript)
     </td>
     <td align="center" width="50%">
       <b>🚀 Principais Domínios</b><br/><br/>
@@ -47,3 +50,13 @@ Desenvolvedor focado na criação de soluções para sistemas web e mobile e sis
     </td>
   </tr>
 </table>
+
+---
+
+### 📬 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-andena-27883b26b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
