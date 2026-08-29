@@ -23,8 +23,24 @@ Desenvolvedor focado na criação de soluções para sistemas web e mobile e sis
 
 ### 📊 Estatísticas e Atividade no GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lxlLukazlxl&show_icons=true&theme=dark&hide_border=true&v=1)](https://github.com/lxlLukazlxl)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Desenvolvendo%20Projetos-success?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Foco-Full%20Stack%20%26%20Mobile-blue?style=for-the-badge&logo=flutter" alt="Foco" />
+</p>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlLukazlxl&layout=compact&theme=dark&hide_border=true&v=1)](https://github.com/lxlLukazlxl)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=lxlLukazlxl&theme=dark&hide_border=true&v=1)](https://github.com/lxlLukazlxl)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>💻 Projetos e Sistemas</b><br/><br/>
+      🏢 <b>Chegou — App Condomínio</b> (Flutter + Firebase)<br/>
+      🛠️ <b>SM OS — Gestão de Serviços</b> (Node.js + MySQL)<br/>
+      📋 <b>Totem Feedback</b> (JS + Supabase)
+    </td>
+    <td align="center" width="50%">
+      <b>🚀 Principais Domínios</b><br/><br/>
+      📱 <b>Mobile:</b> Flutter / React Native<br/>
+      🌐 <b>Web & Back-end:</b> Node.js / Python / React<br/>
+      🗄️ <b>Bancos de Dados:</b> MySQL / SQLite / Firebase
+    </td>
+  </tr>
+</table>
