@@ -31,16 +31,19 @@ Desenvolvedor focado na criação de soluções para sistemas web e mobile e sis
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <b>💻 Projetos e Sistemas</b><br/><br/>
-      🏢 <b>Chegou — App Condomínio</b> (Flutter + Firebase)<br/>
-      🛠️ <b>SM OS — Gestão de Serviços</b> (Node.js + MySQL)<br/>
-      📋 <b>Totem Feedback</b> (JS + Supabase)
+      <b>💻 Repositórios no GitHub</b><br/><br/>
+      🏢 <b>gestao_condominio</b> (Flutter / Firebase)<br/>
+      📱 <b>app-entregas</b> (Flutter / Dart)<br/>
+      💼 <b>ERP-Comercial-Pro-V4</b> (Python)<br/>
+      💈 <b>agendamento-barbearia</b> (HTML / CSS / JS)<br/>
+      🔍 <b>github-finder-react</b> (React / JavaScript)
     </td>
     <td align="center" width="50%">
       <b>🚀 Principais Domínios</b><br/><br/>
-      📱 <b>Mobile:</b> Flutter / React Native<br/>
-      🌐 <b>Web & Back-end:</b> Node.js / Python / React<br/>
-      🗄️ <b>Bancos de Dados:</b> MySQL / SQLite / Firebase
+      📱 <b>Mobile:</b> Flutter / Dart<br/>
+      🌐 <b>Web & Back-end:</b> React / Node.js / Python<br/>
+      🗄️ <b>Bancos de Dados:</b> MySQL / Firebase / Supabase<br/>
+      🛠️ <b>Ferramentas:</b> Git / GitHub / VS Code
     </td>
   </tr>
 </table>
